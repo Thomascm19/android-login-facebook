@@ -1,0 +1,6 @@
+com/example/facebooklogin/BuildConfig.java
+ com.example.facebooklogin.BuildConfig
+com/example/facebooklogin/LoginInstagram.java
+ com.example.facebooklogin.LoginInstagram
+com/example/facebooklogin/MainActivity.java
+ com.example.facebooklogin.MainActivity

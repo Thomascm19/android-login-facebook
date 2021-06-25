@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FacebookLogin</string>
+    <string name="placeHolderEmail">Email</string>
+    <string name="placeHolderPassword">Password</string>
+    <string name="forgotPassword">Forgot password</string>
+    <string name="loginButton">Login</string>
+    <string name="loginButtonWith">Log in as</string>
+
+    <string name="app_name_instagram">InstagramLogin</string>
+    <string name="forgot_login_details">Forgot your login details?</string>
+    <string name="forgot_login_details_help">Get help signing in</string>
+    <string name="no_account">Dont¨n have an account?</string>
+    <string name="register">Sign up.</string>
+    <string name="footer_instagram">Instagram from Facebook</string>
+</resources>
